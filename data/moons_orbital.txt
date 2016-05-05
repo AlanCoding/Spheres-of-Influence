@@ -1,265 +1,213 @@
-year
-discovered 	discoverer 	distance from
-planet (km) 	diameter
-(km) 	orbital period
-(days)
-Mercury - 0 Moons
-Venus - 0 Moons
-Earth - 1 Moon
-Moon (or Luna) 	? 	? 	384,400 	3476 	27.322
-Mars - 2 Moons
-Deimos 	1877 	A. Hall 	23,460 	8 	1.263
-Phobos 	1877 	A. Hall 	9,270 	28 X 20 	0.319
-
-Jupiter - 67 Moons
-year
-discovered 	discoverer 	distance from
-planet (km) 	diameter
-(km) 	orbital period
-(days)
-Adrastea 	1979 	Jewitt & Danielson 	128,980 	26 X 16 	0.298
-Aitne 	2001 	S. Sheppard, D. Jewitt, & J. Kleyna 	23,547,000 	3 	736
-Amalthea 	1892 	E. Barnard 	181,300 	262 X 134 	0.498
-Ananke 	1951 	S. Nicholson 	21,200,000 	20 	631
-Aoede 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	23,807,655 	4 	748.8
-Arche 	2002 	S. Sheppard 	23,064,000 	3 	715.6
-Autonoe 	2001 	S. Sheppard, D. Jewitt, & J. Kleyna 	24,122,000 	4 	753
-Callisto 	1610 	Galileo 	1,883,000 	4,800 	16.689
-Carme 	1938 	S. Nicholson 	22,600,000 	30 	692
-Callirrhoe 	2000 	Spacewatch Project
-Minor Planet Center 	24,200,000 	10 	774
-Carpo 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	17,100,000 	3 	456.5
-Chaldene 	2000 	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier 	23,179,000 	3.8 	741
-Cyllene 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	24,000,000 	2 	737.8
-Elara 	1905 	C. Perrine 	11,737,000 	80 	259.65
-Erinome 	2000 	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier 	23,279,000 	3.2 	672
-Euanthe 	2001 	S. Sheppard, D. Jewitt, & J. Kleyna 	21,017,000 	3 	622
-Eukelade 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	24,557,295 	4 	746.4
-Euporie 	2001 	S. Sheppard, D. Jewitt, & J. Kleyna 	19,394,000 	2 	534
-Europa 	1610 	Galileo 	670,900 	3126 	3.551
-Eurydome 	2001 	S. Sheppard, D. Jewitt, & J. Kleyna 	23,219,000 	3 	713
-Ganymede 	1610 	Galileo 	1,070,000 	5276 	7.155
-Harpalyke 	2000 	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier 	21,105,000 	4.3 	595
-Hegemone 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	24,514,095 	3 	781.6
-Helike 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	10,972,830 	4 	233.8
-Hermippe 	2001 	S. Sheppard, D. Jewitt, & J. Kleyna 	21,252,000 	4 	630
-Himalia 	1904 	C. Perrine 	11,480,000 	170 	250.57
-Io 	1610 	Galileo 	421,600 	3,629 	1.769
-Iocaste 	2000 	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier 	21,269,000 	5.2 	657
-Isonone 	2000 	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier 	23,217,000 	3.8 	712
-Kale 	2001 	S. Sheppard, D. Jewitt, & J. Kleyna 	23,124,000 	2 	609
-Kallichore 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	22,395,390 	2 	683.0
-Kalyke 	2000 	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier 	23,583,000 	5.2 	760
-Kore 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	24,543,000 	2 	779.2
-Leda 	1974 	C. Kowal 	11,094,000 	10 	238.72
-Lysithea 	1938 	S. Nicholson 	11,720,000 	24 	259.22
-Magaclite 	2000 	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier 	23,806,000 	5.4 	771
-Metis 	1979 	S. Sunnott 	127,960 	40 	0.295
-Mneme 	2003 	Scott S. Sheppard & B. Gladman 	21,069,000 	2 	620.04
-Orthosie 	2001 	S. Sheppard, D. Jewitt, & J. Kleyna 	21,168,000 	2 	617
-Pasiphae 	1908 	P. Melotte 	23,500,000 	36 	735
-Pasithee 	2001 	S. Sheppard, D. Jewitt, & J. Kleyna 	23,029,000 	2 	715
-Praxidike 	2000 	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier 	21,147,000 	6.8 	632
-Sinope 	1914 	S. Nicholson 	23,700,700 	28 	758
-Sponde 	2001 	S. Sheppard, D. Jewitt, & J. Kleyna 	23,808,000 	2 	732
-S/2000 J11 	2000 	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier 	12,555,000 	4.0 	284.3
-S/2003 J2 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	28,570,410 	2 	982.5
-S/2003 J3 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	18,339,885 	2 	504.0
-S/2003 J4 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	23,257,920 	2 	723.2
-S/2003 J5 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	24,084,180 	4 	759.7
-S/2003 J9 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	22,441,680 	1 	683.0
-S/2003 J10 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	24,249,600 	2 	767.0
-S/2003 J12 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	19,002,480 	1 	533.3
-S/2003 J15 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	22,000,000 	2 	668.4
-S/2003 J16 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	21,000,000 	2 	595.4
-S/2003 J17 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	22,000,000 	2 	690.3
-S/2003 J18 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	20,700,000 	2 	606.3
-S/2003 J19 	2003 	S. Sheppard, D. Jewitt, & J. Kleyna 	22,800,000 	2 	701.3
-S/2003 J 23 	2003 	Scott S. Sheppard 	
-
-23,563,000
-2 	732.44
-Taygete 	2000 	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier 	23,360,000 	5.0 	687
-Thebe 	1979 	S. Synnott 	221,900 	100 	0.675
-Thelxinoe 	2003 	Scott S. Sheppard & B. Gladman 	21,162,000 	2 	628.09
-Themisto 	1975 	C. Kowal & E. Roemer 	7,507,000 	8 	130.07
-Thyone 	2001 	S. Sheppard, D. Jewitt, & J. Kleyna 	21,312,000 	4 	615
-
-Saturn - 62 Moons
-year
-discovered 	discoverer 	distance from
-planet (km) 	diameter
-(km) 	orbital period
-(days)
-Aegir
-2005 	D. Jewitt, S. Sheppard, J. Kleyna 	20,735,000 	6 	1,116.5
-Albiorix 	2000 	Gladman et al. 	16,392,000 	30 	783
-Anthe 	2004 	Cassini Imaging Team 	197,700 	1 	1.04
-Atlas 	1980 	R. Terrile 	137,640 	37 X 27 	0.602
-Bebhionn
-2005 	D. Jewitt, S. Sheppard, J. Kleyna 	17,119,000 	6 	834.8
-Bergelmir
-2005 	D. Jewitt, S. Sheppard, J. Kleyna 	19,338,000 	6 	1,005.9
-Bestla
-2005 	D. Jewitt, S. Sheppard, J. Kleyna 	20,129,000 	7 	1,083.6
-Calypso 	1980 	B. Smith 	294,660 	30 X 16 	1.888
-
-Daphnis
-2005 	Cassini Imaging Science Team 	136,500 	7 	0.594
-Dione 	1684 	G. Cassini 	377,400 	1120 	2.737
-Enceladus 	1789 	W. Herschel 	238,020 	498 	1.370
-Epimetheus 	1966 	R. Walker 	151,422 	138 X 110 	0.694
-Erriapo 	2000 	Intl. Team of 8 Astronomers 	17,611,000 	10 	871.17
-Farbauti
-2005 	D. Jewitt, S. Sheppard, J. Kleyna 	20,390,000 	5 	1,086.1
-Fenrir
-2005 	D. Jewitt, S. Sheppard, J. Kleyna 	22,453,000 	4 	1,260.3
-Fornjot
-2005 	D. Jewitt, S. Sheppard, J. Kleyna 	25,108,000 	6 	1,490.9
-Greip
-2006 	S. Sheppard, D. Jewitt, J. Kleyna 	18,206,000 	6 	921.2
-Hati
-2005 	D. Jewitt, S. Sheppard, J. Kleyna 	19,856,000 	6 	1,038.7
-Helene 	1980 	Laques & Lecacheux 	377,400 	36 X 28 	2.737
-Hyperion 	1848 	W. Bond 	1,481,000 	360 X 226 	21.277
-Hyrokkin
-2006 	S. Sheppard, D. Jewitt, J. Kleyna 	18,437,000 	8 	931.8
-Iapetus 	1671 	G. Cassini 	3,561,300 	1436 	79.3215
-Ijiraq 	2000 	Intl. Team of 8 Astronomers 	11,440,000 	14 	451.48
-Janus 	1966 	A. Dollfus 	151,472 	190 X 154 	0.695
-Jarnsaxa
-2006 	S. Sheppard, D. Jewitt, J. Kleyna 	18,811,000 	6 	964.7
-Kari
-2006 	S. Sheppard, D. Jewitt, J. Kleyna 	22,118,000 	7 	1,233.6
-Kiviuq 	2000 	Intl. Team of 8 Astronomers 	11,365,000 	17 	449.22
-Loge
-2006 	S. Sheppard, D. Jewitt, J. Kleyna 	23,065,000 	6 	1,312.0
-Methone 	2004 	C.C. Porco et al./Cassini 	194,000 	3 	1.01
-Mimas 	1789 	W. Herschel 	185,520 	398 	0.942
-Mundilfari 	2000 	Intl. Team of 8 Astronomers 	18,709,000 	7 	951.38
-Narvi 	2003 	Scott S. Sheppard, David Jewitt, and Jan Kleyna 	18,719,000 	8 	956.2
-Paaliaq 	2000 	Intl. Team of 8 Astronomers 	15,199,000 	25 	686.92
-Pallene 	2004 	C.C. Porco et al./Cassini 	211,000 	4 	1.14
-Pan 	1990 	M. Showalter 	133,630 	19.32 	0.5750
-Pandora 	1980 	S. Collins 	141,700 	110 X 62 	0.629
-Phoebe 	1898 	W. Pickering 	12,952,000 	220 	550.48
-Polydeuces 	2004 	C.C. Porco et al./Cassini 	377,400 	4 	2.74
-Prometheus 	1980 	S. Collins 	139,350 	148 X 68 	0.613
-Rhea 	1672 	G. Cassini 	527,040 	1528 	4.518
-Siarnaq 	2000 	Intl. Team of 8 Astronomers 	18,160,000 	45 	893.07
-Skathi 	2000 	Intl. Team of 8 Astronomers 	15,645,000 	8 	728.93
-Skoll
-2006 	S. Sheppard, D. Jewitt, J. Kleyna 	17,665,000 	6 	878.3
-
-Surtur
-2006 	S. Sheppard, D. Jewitt, J. Kleyna 	22,707,000 	6 	1,297.7
-Suttungr 	2000 	Gladman et al. 	19,470,000 	7 	1016.8
-S/2004 S07
-2004 	D. Jewitt, S. Sheppard, J. Kleyna 	19,800,000 	6 	1,103
-S/2004 S12
-2004 	D. Jewitt, S. Sheppard, J. Kleyna 	19,650,000 	5 	1,048
-S/2004 S13
-2004 	D. Jewitt, S. Sheppard, J. Kleyna 	18,450,000 	6 	906
-S/2004 S17
-2004 	D. Jewitt, S. Sheppard, J. Kleyna 	18,600,000 	4 	986
-S/2006 S1
-2006 	S. Sheppard, D. Jewitt, J. Kleyna 	18,981,135 	6 	970
-S/2006 S3
-2006 	S. Sheppard, D. Jewitt, J. Kleyna 	21,132,000 	6 	1,142
-S/2007 S2
-2007 	S. Sheppard, D. Jewitt, J. Kleyna 	16,560,000 	6 	800
-S/2007 S3
-2007 	S. Sheppard, D. Jewitt, J. Kleyna 	20,518,500 	5 	1,100
-Tarqeq
-2007 	S. Sheppard, D. Jewitt, J. Kleyna 	18,009,000 	7 	887.5
-Tarvos 	2000 	Intl. Team of 8 Astronomers 	18,239,000 	16 	925.70
-Telesto 	1980 	B. Smith 	294,660 	30 X 16 	1.888
-Tethys 	1684 	G. Cassini 	294,660 	1060 	1.888
-Thrymr 	2000 	Intl. Team of 8 Astronomers 	20,470,000 	7 	1088.89
-Titan 	1655 	C. Huygens 	1,221,850 	5150 	15.945
-Ymir 	2000 	Intl. Team of 8 Astronomers 	23,096,000 	20 	1312.37
-
-Uranus - 27 Moons
-year
-discovered 	discoverer 	distance from
-planet (km) 	diameter
-(km) 	orbital period
-(days)
-Ariel 	1851 	W. Lassell 	191,240 	1160 	2.520
-Belinda 	1986 	Voyager 2 	75,260 	66 	0.624
-Bianca 	1986 	Voyager 2 	75,260 	42 	0.433
-Caliban 	1997 	Gladman, Nicholson, Burns, & Kavelaars 	7,200,000 	80 	579.5
-Cordelia 	1986 	Voyager 2 	49,750 	26 	0.335
-Cressida 	1986 	Voyager 2 	61,770 	62 	0.464
-Cupid 	2003 	M. Showalter & J. Lissauer 	74,800 	12 	0.618
-Desdemona 	1986 	Voyager 2 	62,660 	54 	0.474
-Ferdinand 	2001 	M. Holman & B. Gladman et al 	20,901,000 	21 	2,823.4
-Francisco 	2001 	M. Holman & B. Gladman et al 	4,276,000 	22 	266.6
-Juliet 	1986 	Voyager 2 	64,360 	84 	0.493
-Mab 	2003 	M. Showalter & J. Lissauer 	97,734 	16 	0.923
-Margaret 	2003 	S. Sheppard 	14,688,700 	11 	1,694.8
-Miranda 	1948 	G. Kuiper 	129,780 	472 	1.414
-Oberon 	1787 	W. Herschel 	582,600 	1526 	13.463
-Ophelia 	1986 	Voyager 2 	53,440 	30.4 	0.3764
-Perdita 	1986 	E. Karkoschka/Voyager 2 	76,420 	20 	0.638
-Portia 	1986 	Voyager 2 	66,085 	108 	0.513
-Prospero 	1999 	Kavelaars, Gladman, Holman et al 	16,256,000 	30 	5.346
-Puck 	1985 	Voyager 2 	86,010 	154 	0.762
-Rosalind 	1986 	Voyager 2 	69,941 	54 	0.558
-Setebos 	1999 	Kavelaars, Gladman, Holman et al 	17,418,000 	47 	2,234.8
-Stephano 	1999 	Kavelaars, Gladman, Holman et al 	8,004,000 	32 	677.4
-Sycorax 	1997 	Gladman, Nicholson, Burns, & Kavelaars 	12,200,000 	160 	1283.39
-Titania 	1787 	W. Herschel 	435,840 	1,578 	8.706
-Trinculo 	2001 	M. Holman, J. Kavelaars & D. Milisavljevic 	8,578,000 	10 	759.0
-Umbriel 	1851 	W. Lassel 	265,970 	1190 	4.144
-
-Neptune - 14 Moons
-year
-discovered 	discoverer 	distance from
-planet (km) 	diameter
-(km) 	orbital period
-(days)
-Despina 	1989 	Voyager 2 	62,000 	160 	0.40
-Galatea 	1989 	Voyager 2 	52,500 	140 	0.33
-Halimede 	2002 	M. Holman & J.J. Kavelaars 	15,686,000 	60 	1,874.83
-Larissa 	1989 	Voyager 2 	73,600 	200 	0.56
-Laomedeia 	2002 	M. Holman & J.J. Kavelaars 	22,613,200 	38 	2,980.4
-Naiad 	1989 	Voyager 2 	48,200 	50 	0.30
-Nereid 	1949 	G. Kuiper 	5,513,400 	340 	360.16
-Neso 	2002 	Holman & Gladman et al 	47,279,670 	60 	9,007.1
-Proteus 	1989 	Voyager 2 	117,600 	420 	1.12
-Psamathe 	2003 	D. Jewitt, J. Kleyna & S. Sheppard 	46,738,000 	38 	9,136.11
-Sao 	2002 	M. Holman & J.J. Kavelaars 	22,337,190 	38 	2,925.6
-Thalassa 	1989 	Voyager 2 	50,000 	90 	0.31
-Triton 	1846 	W. Lassel 	354,800 	2705 	5.877
-
-Dwarf Planets
-
-Ceres - 0 Moons
-Pluto - 5 Moons
-year
-discovered 	discoverer 	distance from
-planet (km) 	diameter
-(km) 	orbital period
-(days)
-Charon 	1978 	J. Christy 	19,571 	1,207 	6.387
-Nix 	2005 	H.A. Weaver, S.A. Stern, et al. 	48,675 	44-130 	24.856
-Hydra 	2005 	H.A. Weaver, S.A. Stern, et al. 	64,780 	44-130 	38.206
-
-Haumea - 2 Moons
-year
-discovered 	discoverer 	distance from
-planet (km) 	diameter
-(km) 	orbital period
-(days)
-Namaka 	2005 	H.A. Weaver, S.A. Stern, et al. 	~39,000 	~170 	34.7
-Hi'iaka 	2005 	H.A. Weaver, S.A. Stern, et al. 	49,500 	~310 	49.12
-
-Makemake - 0 Moons
-Eris - 1 Moon
-year
-discovered 	discoverer 	distance from
-planet (km) 	diameter
-(km) 	orbital period
-(days)
-Dysnomia 	2005 	M. Brown, M. van Dam, A. Bouches, D. Le Mignant 	30,000-36,000 	~300 	~14
+	year	discoverer	distance from	diameter	orbital period
+	discovered		planet (km)	(km)	(days)
+Mercury - 0 Moons					
+Venus - 0 Moons					
+Earth - 1 Moon					
+Moon (or Luna)	?	?	384,400	3476	27.322
+Mars - 2 Moons					
+Deimos	1877	A. Hall	23,460	8	1.263
+Phobos	1877	A. Hall	9,270	28 X 20	0.319
+					
+Jupiter - 67 Moons					
+	year	discoverer	distance from	diameter	orbital period
+	discovered		planet (km)	(km)	(days)
+Adrastea	1979	Jewitt & Danielson	128,980	26 X 16	0.298
+Aitne	2001	S. Sheppard, D. Jewitt, & J. Kleyna	23,547,000	3	736
+Amalthea	1892	E. Barnard	181,300	262 X 134	0.498
+Ananke	1951	S. Nicholson	21,200,000	20	631
+Aoede	2003	S. Sheppard, D. Jewitt, & J. Kleyna	23,807,655	4	748.8
+Arche	2002	S. Sheppard	23,064,000	3	715.6
+Autonoe	2001	S. Sheppard, D. Jewitt, & J. Kleyna	24,122,000	4	753
+Callisto	1610	Galileo	1,883,000	4,800	16.689
+Carme	1938	S. Nicholson	22,600,000	30	692
+Callirrhoe	2000	Spacewatch Project	24,200,000	10	774
+		Minor Planet Center			
+Carpo	2003	S. Sheppard, D. Jewitt, & J. Kleyna	17,100,000	3	456.5
+Chaldene	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	23,179,000	3.8	741
+Cyllene	2003	S. Sheppard, D. Jewitt, & J. Kleyna	24,000,000	2	737.8
+Elara	1905	C. Perrine	11,737,000	80	259.65
+Erinome	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	23,279,000	3.2	672
+Euanthe	2001	S. Sheppard, D. Jewitt, & J. Kleyna	21,017,000	3	622
+Eukelade	2003	S. Sheppard, D. Jewitt, & J. Kleyna	24,557,295	4	746.4
+Euporie	2001	S. Sheppard, D. Jewitt, & J. Kleyna	19,394,000	2	534
+Europa	1610	Galileo	670,900	3126	3.551
+Eurydome	2001	S. Sheppard, D. Jewitt, & J. Kleyna	23,219,000	3	713
+Ganymede	1610	Galileo	1,070,000	5276	7.155
+Harpalyke	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	21,105,000	4.3	595
+Hegemone	2003	S. Sheppard, D. Jewitt, & J. Kleyna	24,514,095	3	781.6
+Helike	2003	S. Sheppard, D. Jewitt, & J. Kleyna	10,972,830	4	233.8
+Hermippe	2001	S. Sheppard, D. Jewitt, & J. Kleyna	21,252,000	4	630
+Himalia	1904	C. Perrine	11,480,000	170	250.57
+Io	1610	Galileo	421,600	3,629	1.769
+Iocaste	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	21,269,000	5.2	657
+Isonone	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	23,217,000	3.8	712
+Kale	2001	S. Sheppard, D. Jewitt, & J. Kleyna	23,124,000	2	609
+Kallichore	2003	S. Sheppard, D. Jewitt, & J. Kleyna	22,395,390	2	683
+Kalyke	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	23,583,000	5.2	760
+Kore	2003	S. Sheppard, D. Jewitt, & J. Kleyna	24,543,000	2	779.2
+Leda	1974	C. Kowal	11,094,000	10	238.72
+Lysithea	1938	S. Nicholson	11,720,000	24	259.22
+Magaclite	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	23,806,000	5.4	771
+Metis	1979	S. Sunnott	127,960	40	0.295
+Mneme	2003	Scott S. Sheppard & B. Gladman	21,069,000	2	620.04
+Orthosie	2001	S. Sheppard, D. Jewitt, & J. Kleyna	21,168,000	2	617
+Pasiphae	1908	P. Melotte	23,500,000	36	735
+Pasithee	2001	S. Sheppard, D. Jewitt, & J. Kleyna	23,029,000	2	715
+Praxidike	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	21,147,000	6.8	632
+Sinope	1914	S. Nicholson	23,700,700	28	758
+Sponde	2001	S. Sheppard, D. Jewitt, & J. Kleyna	23,808,000	2	732
+S/2000 J11	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	12,555,000	4	284.3
+S/2003 J2	2003	S. Sheppard, D. Jewitt, & J. Kleyna	28,570,410	2	982.5
+S/2003 J3	2003	S. Sheppard, D. Jewitt, & J. Kleyna	18,339,885	2	504
+S/2003 J4	2003	S. Sheppard, D. Jewitt, & J. Kleyna	23,257,920	2	723.2
+S/2003 J5	2003	S. Sheppard, D. Jewitt, & J. Kleyna	24,084,180	4	759.7
+S/2003 J9	2003	S. Sheppard, D. Jewitt, & J. Kleyna	22,441,680	1	683
+S/2003 J10	2003	S. Sheppard, D. Jewitt, & J. Kleyna	24,249,600	2	767
+S/2003 J12	2003	S. Sheppard, D. Jewitt, & J. Kleyna	19,002,480	1	533.3
+S/2003 J15	2003	S. Sheppard, D. Jewitt, & J. Kleyna	22,000,000	2	668.4
+S/2003 J16	2003	S. Sheppard, D. Jewitt, & J. Kleyna	21,000,000	2	595.4
+S/2003 J17	2003	S. Sheppard, D. Jewitt, & J. Kleyna	22,000,000	2	690.3
+S/2003 J18	2003	S. Sheppard, D. Jewitt, & J. Kleyna	20,700,000	2	606.3
+S/2003 J19	2003	S. Sheppard, D. Jewitt, & J. Kleyna	22,800,000	2	701.3
+S/2003 J 23	2003	Scott S. Sheppard	23,563,000	2	732.44
+Taygete	2000	S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier	23,360,000	5	687
+Thebe	1979	S. Synnott	221,900	100	0.675
+Thelxinoe	2003	Scott S. Sheppard & B. Gladman	21,162,000	2	628.09
+Themisto	1975	C. Kowal & E. Roemer	7,507,000	8	130.07
+Thyone	2001	S. Sheppard, D. Jewitt, & J. Kleyna	21,312,000	4	615
+					
+Saturn - 62 Moons					
+	year	discoverer	distance from	diameter	orbital period
+	discovered		planet (km)	(km)	(days)
+Aegir	2005	D. Jewitt, S. Sheppard, J. Kleyna	20,735,000	6	1,116.50
+Albiorix	2000	Gladman et al.	16,392,000	30	783
+Anthe	2004	Cassini Imaging Team	197,700	1	1.04
+Atlas	1980	R. Terrile	137,640	37 X 27	0.602
+Bebhionn	2005	D. Jewitt, S. Sheppard, J. Kleyna	17,119,000	6	834.8
+Bergelmir	2005	D. Jewitt, S. Sheppard, J. Kleyna	19,338,000	6	1,005.90
+Bestla	2005	D. Jewitt, S. Sheppard, J. Kleyna	20,129,000	7	1,083.60
+Calypso	1980	B. Smith	294,660	30 X 16	1.888
+Daphnis	2005	Cassini Imaging Science Team	136,500	7	0.594
+Dione	1684	G. Cassini	377,400	1120	2.737
+Enceladus	1789	W. Herschel	238,020	498	1.37
+Epimetheus	1966	R. Walker	151,422	138 X 110	0.694
+Erriapo	2000	Intl. Team of 8 Astronomers	17,611,000	10	871.17
+Farbauti	2005	D. Jewitt, S. Sheppard, J. Kleyna	20,390,000	5	1,086.10
+Fenrir	2005	D. Jewitt, S. Sheppard, J. Kleyna	22,453,000	4	1,260.30
+Fornjot	2005	D. Jewitt, S. Sheppard, J. Kleyna	25,108,000	6	1,490.90
+Greip	2006	S. Sheppard, D. Jewitt, J. Kleyna	18,206,000	6	921.2
+Hati	2005	D. Jewitt, S. Sheppard, J. Kleyna	19,856,000	6	1,038.70
+Helene	1980	Laques & Lecacheux	377,400	36 X 28	2.737
+Hyperion	1848	W. Bond	1,481,000	360 X 226	21.277
+Hyrokkin	2006	S. Sheppard, D. Jewitt, J. Kleyna	18,437,000	8	931.8
+Iapetus	1671	G. Cassini	3,561,300	1436	79.3215
+Ijiraq	2000	Intl. Team of 8 Astronomers	11,440,000	14	451.48
+Janus	1966	A. Dollfus	151,472	190 X 154	0.695
+Jarnsaxa	2006	S. Sheppard, D. Jewitt, J. Kleyna	18,811,000	6	964.7
+Kari	2006	S. Sheppard, D. Jewitt, J. Kleyna	22,118,000	7	1,233.60
+Kiviuq	2000	Intl. Team of 8 Astronomers	11,365,000	17	449.22
+Loge	2006	S. Sheppard, D. Jewitt, J. Kleyna	23,065,000	6	1,312.00
+Methone	2004	C.C. Porco et al./Cassini	194,000	3	1.01
+Mimas	1789	W. Herschel	185,520	398	0.942
+Mundilfari	2000	Intl. Team of 8 Astronomers	18,709,000	7	951.38
+Narvi	2003	Scott S. Sheppard, David Jewitt, and Jan Kleyna	18,719,000	8	956.2
+Paaliaq	2000	Intl. Team of 8 Astronomers	15,199,000	25	686.92
+Pallene	2004	C.C. Porco et al./Cassini	211,000	4	1.14
+Pan	1990	M. Showalter	133,630	19.32	0.575
+Pandora	1980	S. Collins	141,700	110 X 62	0.629
+Phoebe	1898	W. Pickering	12,952,000	220	550.48
+Polydeuces	2004	C.C. Porco et al./Cassini	377,400	4	2.74
+Prometheus	1980	S. Collins	139,350	148 X 68	0.613
+Rhea	1672	G. Cassini	527,040	1528	4.518
+Siarnaq	2000	Intl. Team of 8 Astronomers	18,160,000	45	893.07
+Skathi	2000	Intl. Team of 8 Astronomers	15,645,000	8	728.93
+Skoll	2006	S. Sheppard, D. Jewitt, J. Kleyna	17,665,000	6	878.3
+Surtur	2006	S. Sheppard, D. Jewitt, J. Kleyna	22,707,000	6	1,297.70
+Suttungr	2000	Gladman et al.	19,470,000	7	1016.8
+S/2004 S07	2004	D. Jewitt, S. Sheppard, J. Kleyna	19,800,000	6	1,103
+S/2004 S12	2004	D. Jewitt, S. Sheppard, J. Kleyna	19,650,000	5	1,048
+S/2004 S13	2004	D. Jewitt, S. Sheppard, J. Kleyna	18,450,000	6	906
+S/2004 S17	2004	D. Jewitt, S. Sheppard, J. Kleyna	18,600,000	4	986
+S/2006 S1	2006	S. Sheppard, D. Jewitt, J. Kleyna	18,981,135	6	970
+S/2006 S3	2006	S. Sheppard, D. Jewitt, J. Kleyna	21,132,000	6	1,142
+S/2007 S2	2007	S. Sheppard, D. Jewitt, J. Kleyna	16,560,000	6	800
+S/2007 S3	2007	S. Sheppard, D. Jewitt, J. Kleyna	20,518,500	5	1,100
+Tarqeq	2007	S. Sheppard, D. Jewitt, J. Kleyna	18,009,000	7	887.5
+Tarvos	2000	Intl. Team of 8 Astronomers	18,239,000	16	925.7
+Telesto	1980	B. Smith	294,660	30 X 16	1.888
+Tethys	1684	G. Cassini	294,660	1060	1.888
+Thrymr	2000	Intl. Team of 8 Astronomers	20,470,000	7	1088.89
+Titan	1655	C. Huygens	1,221,850	5150	15.945
+Ymir	2000	Intl. Team of 8 Astronomers	23,096,000	20	1312.37
+					
+Uranus - 27 Moons					
+	year	discoverer	distance from	diameter	orbital period
+	discovered		planet (km)	(km)	(days)
+Ariel	1851	W. Lassell	191,240	1160	2.52
+Belinda	1986	Voyager 2	75,260	66	0.624
+Bianca	1986	Voyager 2	75,260	42	0.433
+Caliban	1997	Gladman, Nicholson, Burns, & Kavelaars	7,200,000	80	579.5
+Cordelia	1986	Voyager 2	49,750	26	0.335
+Cressida	1986	Voyager 2	61,770	62	0.464
+Cupid	2003	M. Showalter & J. Lissauer	74,800	12	0.618
+Desdemona	1986	Voyager 2	62,660	54	0.474
+Ferdinand	2001	M. Holman & B. Gladman et al	20,901,000	21	2,823.40
+Francisco	2001	M. Holman & B. Gladman et al	4,276,000	22	266.6
+Juliet	1986	Voyager 2	64,360	84	0.493
+Mab	2003	M. Showalter & J. Lissauer	97,734	16	0.923
+Margaret	2003	S. Sheppard	14,688,700	11	1,694.80
+Miranda	1948	G. Kuiper	129,780	472	1.414
+Oberon	1787	W. Herschel	582,600	1526	13.463
+Ophelia	1986	Voyager 2	53,440	30.4	0.3764
+Perdita	1986	E. Karkoschka/Voyager 2	76,420	20	0.638
+Portia	1986	Voyager 2	66,085	108	0.513
+Prospero	1999	Kavelaars, Gladman, Holman et al	16,256,000	30	5.346
+Puck	1985	Voyager 2	86,010	154	0.762
+Rosalind	1986	Voyager 2	69,941	54	0.558
+Setebos	1999	Kavelaars, Gladman, Holman et al	17,418,000	47	2,234.80
+Stephano	1999	Kavelaars, Gladman, Holman et al	8,004,000	32	677.4
+Sycorax	1997	Gladman, Nicholson, Burns, & Kavelaars	12,200,000	160	1283.39
+Titania	1787	W. Herschel	435,840	1,578	8.706
+Trinculo	2001	M. Holman, J. Kavelaars & D. Milisavljevic	8,578,000	10	759
+Umbriel	1851	W. Lassel	265,970	1190	4.144
+					
+Neptune - 14 Moons					
+	year	discoverer	distance from	diameter	orbital period
+	discovered		planet (km)	(km)	(days)
+Despina	1989	Voyager 2	62,000	160	0.4
+Galatea	1989	Voyager 2	52,500	140	0.33
+Halimede	2002	M. Holman & J.J. Kavelaars	15,686,000	60	1,874.83
+Larissa	1989	Voyager 2	73,600	200	0.56
+Laomedeia	2002	M. Holman & J.J. Kavelaars	22,613,200	38	2,980.40
+Naiad	1989	Voyager 2	48,200	50	0.3
+Nereid	1949	G. Kuiper	5,513,400	340	360.16
+Neso	2002	Holman & Gladman et al	47,279,670	60	9,007.10
+Proteus	1989	Voyager 2	117,600	420	1.12
+Psamathe	2003	D. Jewitt, J. Kleyna & S. Sheppard	46,738,000	38	9,136.11
+Sao	2002	M. Holman & J.J. Kavelaars	22,337,190	38	2,925.60
+Thalassa	1989	Voyager 2	50,000	90	0.31
+Triton	1846	W. Lassel	354,800	2705	5.877
+					
+Dwarf Planets					
+					
+Ceres - 0 Moons					
+					
+Pluto - 5 Moons					
+	year	discoverer	distance from	diameter	orbital period
+	discovered		planet (km)	(km)	(days)
+Charon	1978	J. Christy	19,571	1,207	6.387
+Nix	2005	H.A. Weaver, S.A. Stern, et al.	48,675	44-130	24.856
+Hydra	2005	H.A. Weaver, S.A. Stern, et al.	64,780	44-130	38.206
+					
+Haumea - 2 Moons					
+	year	discoverer	distance from	diameter	orbital period
+	discovered		planet (km)	(km)	(days)
+Namaka	2005	H.A. Weaver, S.A. Stern, et al.	~39,000	~170	34.7
+Hi'iaka	2005	H.A. Weaver, S.A. Stern, et al.	49,500	~310	49.12
+					
+Makemake - 0 Moons					
+					
+Eris - 1 Moon					
+	year	discoverer	distance from	diameter	orbital period
+	discovered		planet (km)	(km)	(days)
+Dysnomia	2005	M. Brown, M. van Dam, A. Bouches, D. Le Mignant	30,000-36,000	~300	~14
