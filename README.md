@@ -26,3 +26,20 @@ Moon data dump
  - physical
    - http://ssd.jpl.nasa.gov/?sat_phys_par
 
+## Goals
+
+ - A python library that will take two locations and find the Delta V between them
+ - Network resource flow calculator - a numerical illustration of [Hop's vision](http://hopsblog-hop.blogspot.com/2013/09/one-legged-stools.html)
+ - Simple website (likely client-side scripting) that can calculate the first goal with selection boxes
+
+I believe all these are very highly attainable, although they will push my own
+limits to some degree (part of the point). Thus, I want to distinguish them
+from the next set of goals.
+
+ - discrete simulations with time-domain actions within the network model
+ - A text-based website where users can make accounts and input data to create their own
+   network-defined resource flow numbers
+   - Ability to share this with a link
+ - A time-based website where users can build their time-domain actions in the
+   discrete simulation
+

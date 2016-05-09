@@ -188,26 +188,9 @@ Sao	2002	M. Holman & J.J. Kavelaars	22,337,190	38	2,925.60
 Thalassa	1989	Voyager 2	50,000	90	0.31
 Triton	1846	W. Lassel	354,800	2705	5.877
 					
-Dwarf Planets					
-					
-Ceres - 0 Moons					
-					
 Pluto - 5 Moons					
 	year	discoverer	distance from	diameter	orbital period
 	discovered		planet (km)	(km)	(days)
 Charon	1978	J. Christy	19,571	1,207	6.387
 Nix	2005	H.A. Weaver, S.A. Stern, et al.	48,675	44-130	24.856
 Hydra	2005	H.A. Weaver, S.A. Stern, et al.	64,780	44-130	38.206
-					
-Haumea - 2 Moons					
-	year	discoverer	distance from	diameter	orbital period
-	discovered		planet (km)	(km)	(days)
-Namaka	2005	H.A. Weaver, S.A. Stern, et al.	~39,000	~170	34.7
-Hi'iaka	2005	H.A. Weaver, S.A. Stern, et al.	49,500	~310	49.12
-					
-Makemake - 0 Moons					
-					
-Eris - 1 Moon					
-	year	discoverer	distance from	diameter	orbital period
-	discovered		planet (km)	(km)	(days)
-Dysnomia	2005	M. Brown, M. van Dam, A. Bouches, D. Le Mignant	30,000-36,000	~300	~14
