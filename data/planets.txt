@@ -18,4 +18,4 @@ Mean Temperature (C) 	167 	464 	15 	-20 	-65 	-110 	-140 	-195 	-200 	-225
 Surface Pressure (bars) 	0 	92 	1 	0 	0.01 	Unknown* 	Unknown* 	Unknown* 	Unknown* 	0
 Number of Moons 	0 	0 	1 	0 	2 	67 	62 	27 	14 	5
 Ring System? 	No 	No 	No 	No 	No 	Yes 	Yes 	Yes 	Yes 	No
-Global Magnetic Field? 	Yes 	No 	Yes 	No 	No 	Yes 	Yes 	Yes 	Yes 	Unk
+Global Magnetic Field? 	Yes 	No 	Yes 	No 	No 	Yes 	Yes 	Yes 	Yes 	Unknown

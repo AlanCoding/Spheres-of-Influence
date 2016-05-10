@@ -1,0 +1,164 @@
+ --planet list--
+Diameter (km)	Orbital Inclination (degrees)	Distance from Sun (106 km)	Mass (1024kg)
+4879.0	7.0	57.9	0.33
+12104.0	3.4	108.2	4.87
+12756.0	0.0	149.6	5.97
+3475.0	5.1	0.384	0.073
+6792.0	1.9	227.9	0.642
+142984.0	1.3	778.6	1898.0
+120536.0	2.5	1433.5	568.0
+51118.0	0.8	2872.5	86.8
+49528.0	1.8	4495.1	102.0
+2370.0	17.2	5906.4	0.0146
+ G: 6.67408e-11
+
+--moon data--
+moon_name	planet_name	a	dia	number	r	rho	GM	albedo
+Moon	Earth	3476	27.322	0	1737.5	3.344	4902.801	0.12
+Phobos	Mars	24.0	0.319	1	11.1	1.872	0.0007112	0.071
+Deimos	Mars	8	1.263	0	6.2	1.471	0.0000985	0.068
+Hegemone	Jupiter	3	781.6	22	1.5	2.6	0.000003	0.04
+Adrastea	Jupiter	21.0	0.298	0	8.2	3	0.0005	0.1
+S/2003	Jupiter	2	732.44	57	1	2.6	0.000001	0.04
+S/2000	Jupiter	4	284.3	44	1	2.6	0.000001	0.04
+Thyone	Jupiter	4	615	62	2	2.6	0.000006	0.04
+Pasiphae	Jupiter	36	735	39	30	2.6	0.02	0.04
+Eurydome	Jupiter	3	713	19	1.5	2.6	0.000003	0.04
+Themisto	Jupiter	8	130.07	61	4	2.6	0.000046	0.04
+Orthosie	Jupiter	2	617	38	1	2.6	0.000001	0.04
+Hermippe	Jupiter	4	630	24	2	2.6	0.000006	0.04
+Cyllene	Jupiter	2	737.8	12	1	2.6	0.000001	0.04
+Autonoe	Jupiter	4	753	6	2	2.6	0.000006	0.04
+Thelxinoe	Jupiter	2	628.09	60	1	2.6	0.000001	0.04
+Europa	Jupiter	3126	3.551	18	1560.8	3.013	3202.739	0.67
+Kore	Jupiter	2	779.2	32	1	2.6	0.000001	0.04
+Helike	Jupiter	4	233.8	23	2	2.6	0.000006	0.04
+Sinope	Jupiter	28	758	42	19	2.6	0.005	0.04
+Sponde	Jupiter	2	732	43	1	2.6	0.000001	0.04
+Carme	Jupiter	30	692	8	23	2.6	0.0088	0.04
+Himalia	Jupiter	170	250.57	25	85	2.6	0.45	0.04
+Praxidike	Jupiter	6.8	632	41	3.4	2.6	0.000029	0.04
+Chaldene	Jupiter	3.8	741	11	1.9	2.6	0.000005	0.04
+Metis	Jupiter	40	0.295	36	21.5	3	0.008	0.061
+Arche	Jupiter	3	715.6	5	1.5	2.6	0.000003	0.04
+Amalthea	Jupiter	198.0	0.498	2	83.45	0.849	0.138	0.090
+Eukelade	Jupiter	4	746.4	16	2	2.6	0.000006	0.04
+Leda	Jupiter	10	238.72	33	10	2.6	0.00073	0.04
+Taygete	Jupiter	5	687	58	2.5	2.6	0.000011	0.04
+Elara	Jupiter	80	259.65	13	43	2.6	0.058	0.04
+Thebe	Jupiter	100	0.675	59	49.3	3	0.1	0.047
+Ananke	Jupiter	20	631	3	14	2.6	0.002	0.04
+Mneme	Jupiter	2	620.04	37	1	2.6	0.000001	0.04
+Carpo	Jupiter	3	456.5	10	1.5	2.6	0.000003	0.04
+Iocaste	Jupiter	5.2	657	27	2.6	2.6	0.000013	0.04
+Lysithea	Jupiter	24	259.22	34	18	2.6	0.0042	0.04
+Kale	Jupiter	2	609	29	1	2.6	0.000001	0.04
+Harpalyke	Jupiter	4.3	595	21	2.2	2.6	0.000008	0.04
+Ganymede	Jupiter	5276	7.155	20	2631.2	1.942	9887.834	0.43
+Aitne	Jupiter	3	736	1	1.5	2.6	0.000003	0.04
+Euporie	Jupiter	2	534	17	1	2.6	0.000001	0.04
+Callisto	Jupiter	4800	16.689	7	2410.3	1.834	7179.289	0.17
+Pasithee	Jupiter	2	715	40	1	2.6	0.000001	0.04
+Aoede	Jupiter	4	748.8	4	2	2.6	0.000006	0.04
+Io	Jupiter	3629	1.769	26	1821.6	3.528	5959.916	0.63
+Kalyke	Jupiter	5.2	760	31	2.6	2.6	0.000013	0.04
+Kallichore	Jupiter	2	683	30	1	2.6	0.000001	0.04
+Callirrhoe	Jupiter	10	774	9	4.3	2.6	0.000058	0.04
+Erinome	Jupiter	3.2	672	14	1.6	2.6	0.000003	0.04
+Euanthe	Jupiter	3	622	15	1.5	2.6	0.000003	0.04
+S/2006	Saturn	6	1142	50	2.5	2.3	0	0.04
+Narvi	Saturn	8	956.2	31	3.5	2.3	0.000023	0.04
+Suttungr	Saturn	7	1016.8	44	3.5	2.3	0.000014	0.06
+Titan	Saturn	5150	15.945	58	2574.73	1.882	8978.1382	0.2
+Siarnaq	Saturn	45	893.07	40	20	2.3	0.0026	0.06
+Pandora	Saturn	86.0	0.629	35	40.7	0.490	0.00924	0.5
+S/2007	Saturn	5	1100	52	2	2.3	0	0.04
+Mundilfari	Saturn	7	951.38	30	3.5	2.3	0.000014	0.06
+Bergelmir	Saturn	6	1005.90	5	3	2.3	0	0.04
+Epimetheus	Saturn	124.0	0.694	11	58.1	0.640	0.0351	0.73
+S/2004	Saturn	4	986	48	2	2.3	0	0.04
+Methone	Saturn	3	1.01	28	1.6	0.5	0.0000006	?
+Tarvos	Saturn	16	925.7	54	7.5	2.3	0.00018	0.06
+Atlas	Saturn	32.0	0.602	3	15.1	0.460	0.00044	0.4
+Skoll	Saturn	6	878.3	42	3	2.3	0	0.04
+Pan	Saturn	19.32	0.575	34	14.1	0.420	0.00033	0.5
+Kiviuq	Saturn	17	449.22	26	8	2.3	0.00022	0.06
+Loge	Saturn	6	1312.00	27	3	2.3	0	0.04
+Ijiraq	Saturn	14	451.48	22	6	2.3	0.00008	0.06
+Bebhionn	Saturn	6	834.8	4	3	2.3	0	0.04
+Fornjot	Saturn	6	1490.90	15	3	2.3	0	0.04
+Polydeuces	Saturn	4	2.74	37	1.3	0.5	0.0000003	?
+Prometheus	Saturn	108.0	0.613	38	43.1	0.480	0.01074	0.6
+Anthe	Saturn	1	1.04	2	0.9	0.5	0.0000001	?
+Farbauti	Saturn	5	1086.10	13	2.5	2.3	0	0.04
+Tarqeq	Saturn	7	887.5	53	3	2.3	0	0.04
+Greip	Saturn	6	921.2	16	3	2.3	0	0.04
+Helene	Saturn	32.0	2.737	18	17.6	0.5	0.00076	1.67
+Calypso	Saturn	23.0	1.888	7	10.7	0.5	0.00017	1.34
+Fenrir	Saturn	4	1260.30	14	2	2.3	0	0.04
+Pallene	Saturn	4	1.14	33	2.5	0.5	0.0000022	?
+Thrymr	Saturn	7	1088.89	57	3.5	2.3	0.000014	0.06
+Paaliaq	Saturn	25	686.92	32	11	2.3	0.00055	0.06
+Rhea	Saturn	1528	4.518	39	764.30	1.233	153.9426	0.949
+Ymir	Saturn	20	1312.37	59	9	2.3	0.00033	0.06
+Janus	Saturn	172.0	0.695	23	89.5	0.630	0.1263	0.71
+Phoebe	Saturn	220	550.48	36	106.50	1.638	0.5532	0.081
+Jarnsaxa	Saturn	6	964.7	24	3	2.3	0	0.04
+Enceladus	Saturn	498	1.37	10	252.10	1.608	7.2027	1.375
+Hyperion	Saturn	293.0	21.277	19	135.00	0.544	0.3727	0.3
+Skathi	Saturn	8	728.93	41	4	2.3	0.000021	0.06
+Telesto	Saturn	23.0	1.888	55	12.4	0.5	0.00027	1
+Bestla	Saturn	7	1083.60	6	3.5	2.3	0	0.04
+Daphnis	Saturn	7	0.594	8	3.8	0.340	0.0000052	?
+Dione	Saturn	1120	2.737	9	561.70	1.476	73.1146	0.998
+Tethys	Saturn	1060	1.888	56	533.00	0.973	41.2067	1.229
+Surtur	Saturn	6	1297.70	43	3	2.3	0	0.04
+Hati	Saturn	6	1038.70	17	3	2.3	0	0.04
+Aegir	Saturn	6	1116.50	0	3	2.3	0	0.04
+Albiorix	Saturn	30	783	1	16	2.3	0.0014	0.06
+Kari	Saturn	7	1233.60	25	3	2.3	0	0.04
+Mimas	Saturn	398	0.942	29	198.20	1.150	2.5026	0.962
+Iapetus	Saturn	1436	79.3215	21	735.60	1.083	120.5038	0.6
+Ariel	Uranus	1160	2.52	0	578.9	1.592	86.4	0.39
+Caliban	Uranus	80	579.5	3	36	1.5	0.02	0.04
+Cupid	Uranus	12	0.618	6	9	1.3	0.0002	0.070
+Ferdinand	Uranus	21	2823.40	8	10	1.5	0.00042	0.04
+Oberon	Uranus	1526	13.463	14	761.4	1.559	192.4	0.23
+Cressida	Uranus	62	0.464	5	41	1.3	0.0229	0.069
+Portia	Uranus	108	0.513	17	70	1.3	0.1122	0.069
+Francisco	Uranus	22	266.6	9	11	1.5	0.00056	0.04
+Ophelia	Uranus	30.4	0.3764	15	21.4	1.3	0.0036	0.07
+Bianca	Uranus	42	0.433	2	27	1.3	0.0062	0.065
+Margaret	Uranus	11	1694.80	12	10	1.5	0.00042	0.04
+Rosalind	Uranus	54	0.558	20	36	1.3	0.017	0.072
+Mab	Uranus	16	0.923	11	12	1.3	0.0006	0.103
+Stephano	Uranus	32	677.4	22	16	1.5	0.0017	0.04
+Belinda	Uranus	66	0.624	1	45	1.3	0.0238	0.067
+Miranda	Uranus	472	1.414	13	235.8	1.214	4.4	0.32
+Sycorax	Uranus	160	1283.39	23	75	1.5	0.18	0.04
+Prospero	Uranus	30	5.346	18	25	1.5	0.0066	0.04
+Setebos	Uranus	47	2234.80	21	24	1.5	0.0058	0.04
+Cordelia	Uranus	26	0.335	4	20.1	1.3	0.003	0.07
+Titania	Uranus	1578	8.706	24	788.9	1.662	228.2	0.27
+Perdita	Uranus	20	0.638	16	13	1.3	0.0012	0.070
+Trinculo	Uranus	10	759	25	9	1.5	0.00031	0.04
+Puck	Uranus	154	0.762	19	81	1.3	0.1931	0.104
+Umbriel	Uranus	1190	4.144	26	584.7	1.459	81.5	0.21
+Desdemona	Uranus	54	0.474	7	35	1.3	0.0119	0.084
+Juliet	Uranus	84	0.493	10	53	1.3	0.0372	0.075
+Triton	Neptune	2705	5.877	12	1353.4	2.059	1427.6	0.719
+Nereid	Neptune	340	360.16	6	170.	1.5	2.06	0.155
+Thalassa	Neptune	90	0.31	11	41.	1.3	0.025	0.091
+Sao	Neptune	38	2925.60	10	22	1.5	0.0045	0.04
+Halimede	Neptune	60	1874.83	2	31	1.5	0.012	0.04
+Laomedeia	Neptune	38	2980.40	4	21	1.5	0.0039	0.04
+Naiad	Neptune	50	0.3	5	33.	1.3	0.013	0.072
+Psamathe	Neptune	38	9136.11	9	20	1.5	0.0033	0.04
+Despina	Neptune	160	0.4	0	75.	1.3	0.14	0.09
+Proteus	Neptune	420	1.12	8	210.	1.3	3.36	0.096
+Galatea	Neptune	140	0.33	1	88.	1.3	0.25	0.079
+Neso	Neptune	60	9007.10	7	30	1.5	0.011	0.04
+Larissa	Neptune	200	0.56	3	97.	1.3	0.33	0.091
+Charon	Pluto	1207	6.387	0	603.6	1.664	102.3	0.372
+Nix	Pluto	87.0	24.856	1	23.0	2.1	0.0013	0.35
+Hydra	Pluto	87.0	38.206	2	30.5	0.8	0.0065	0.35

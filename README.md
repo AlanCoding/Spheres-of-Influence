@@ -26,6 +26,8 @@ Moon data dump
  - physical
    - http://ssd.jpl.nasa.gov/?sat_phys_par
 
+Some details breaking down these data sources can be found in [data/README](data/README.md)
+
 ## Goals
 
  - A python library that will take two locations and find the Delta V between them
@@ -43,3 +45,9 @@ from the next set of goals.
  - A time-based website where users can build their time-domain actions in the
    discrete simulation
 
+## Links
+
+To get going diving into the data, I [asked this on Space Stack Exchange](http://space.stackexchange.com/questions/15107/data-for-moons-in-the-solar-system-with-masses).
+
+Once I hit 2 or 3 (or 1, I haven't decided yet), I'll bounce this around NASA
+Spaceflight and possibly some other related communities.
