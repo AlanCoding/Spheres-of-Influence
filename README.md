@@ -23,6 +23,8 @@ http://nssdc.gsfc.nasa.gov/planetary/factsheet/
 Moon data dump
  - orbital
    - http://www.windows2universe.org/our_solar_system/moons_table.html
+   - inclination:
+     - http://nineplanets.org/data.html
  - physical
    - http://ssd.jpl.nasa.gov/?sat_phys_par
 

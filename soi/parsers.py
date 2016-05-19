@@ -83,6 +83,7 @@ for line in moons_orbital.split('\n'):
 	moon_dict[planet_name][moon_name]['a'] = parse_val(row[4])
 	moon_dict[planet_name][moon_name]['dia'] = parse_val(row[5])
 	moon_dict[planet_name][moon_name]['number'] = i_moon
+	moon_dict[planet_name][moon_name]['i'] = 0.
 	i_moon += 1
 
 i_planet = 0
@@ -111,12 +112,40 @@ for line in moons_physical.split('\n'):
 	planet_name = planet_list[j_save]
 	moon_name = row[0].split(' ')[0]
 	if moon_name not in moon_dict[planet_name]:
+		print ' moon unique to physical data: ' + str(moon_name) + ' of planet: ' + str(planet_name)
 		continue
 	
 	moon_dict[planet_name][moon_name]['m'] = parse_val(row[1])/G
 	moon_dict[planet_name][moon_name]['r'] = parse_val(row[3])
 	moon_dict[planet_name][moon_name]['rho'] = parse_val(row[5])
 	moon_dict[planet_name][moon_name]['albedo'] = parse_val(row[8])
+
+# moon inclinations
+with open('data/moons_inclination.txt', 'r') as f:
+	moons_inclination = f.read()
+
+def fixed_width_parse(line, widths):
+	offset = 0
+	return_list = []
+	for width in widths:
+		cell = line[offset:offset + width].strip(' ')
+		return_list.append(cell)
+		offset += width
+	return return_list
+
+print ''
+for line in moons_inclination.split('\n')[5:]:
+	if len(line) == 0:
+		continue
+	row = fixed_width_parse(line, [11, 5, 8, 10, 10, 6, 7, 13, 6, 8])
+	planet_name = row[2]
+	if row[2] not in planet_list:
+		continue
+	if row[0] not in moon_dict[planet_name]:
+		print ' moon unique to inclination data: ' + str(row[0]) + ' of planet: ' + str(planet_name)
+		continue
+	
+	moon_dict[planet_name][row[0]]['i'] = row[5]
 
 
 for planet_name in copy(planet_list):
