@@ -8,7 +8,18 @@ kerbol_system = [
 	{'name': 'Jool',   'parent': 'Kerbol'}
 ]
 
+def test_apex():
+	obj = Object('Kerbol', {'name': 'Kerbol'})
+	assert obj.is_apex()
+
 def test_ancestry_list():
-	obj = Object(kerbol_system[1])
+	system = System(name='Kerbol')
+	system.add_data(kerbol_system)
 	
-	assert False
+	alist = system.objects['Mun'].ancesstor_list()
+	
+	print(' ancesstor_list: ' + str(alist))
+	
+	assert alist[0].name == 'Kerbin'
+	assert alist[1].name == 'Kerbol'
+	
