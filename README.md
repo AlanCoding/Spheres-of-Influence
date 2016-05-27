@@ -15,6 +15,20 @@ sqrt(2*G*(mass of Earth)/(radius of Earth))-sqrt(G*(mass of Earth)/((radius of E
 
 That will get your answer, but it's a simple quesiton.
 
+### Use
+
+Run tests:
+
+```
+py.test soi/test_base.py 
+```
+
+Show parser output:
+
+```
+python2.7 soi/parsers.py
+```
+
 ### Sources
 
 Planet data dump

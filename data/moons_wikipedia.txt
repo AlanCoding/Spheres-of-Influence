@@ -1,0 +1,159 @@
+
+Mars
+Name and pronunciation		Diameter (km)	Mass (kg)	Semi-major	Orbital	Average moonrise	Inclination
+Mars I	Phobos	22.2 km (13.8 mi)	10.8×1015	9,377 km	7.66	11.12 h (0.463 d)	1.1
+Mars II	Deimos	12.6 km (7.8 mi)	2×1015	23,460 km	30.35	131 h (5.44 d)	0.93
+
+Jupiter
+Order	Label	Name	Diameter	Mass	Semi-major	Orbital period	Inclination	Eccentr.	Discovery	Discoverer[21]	Group
+1	XVI	Metis	60 × 40 × 34	≈ 3.6	127690	+7h 4m 29s	0.06[37]	0.00002	1979	Synnott	Inner
+2	XV	Adrastea	20 × 16 × 14	≈ 0.2	128690	+7h 9m 30s	0.03[37]	0.0015	1979	Jewitt	Inner
+3	V	Amalthea	250 × 146 × 128	208	181366	+11h 57m 23s	0.374[37]	0.0032	1892	Barnard	Inner
+4	XIV	Thebe	116 × 98 × 84	≈ 43	221889	+16h 11m 17s	1.076[37]	0.0175	1979	Synnott	Inner
+5	I	Io	3660	8931900	421700	1.7691	0.050[37]	0.0041	1610	Galilei	Galilean
+6	II	Europa	3121.6	4800000	671034	3.5512	0.471[37]	0.0094	1610	Galilei	Galilean
+7	III	Ganymede	5262.4	14819000	1070412	7.1546	0.204[37]	0.0011	1610	Galilei	Galilean
+8	IV	Callisto	4820.6	10759000	1882709	16.689	0.205[37]	0.0074	1610	Galilei	Galilean
+9	XVIII	Themisto	8	0.069	7393216	129.87	45.762	0.2115	1975/2000	Kowal & Roemer/	Themisto
+10	XIII	Leda	16	0.6	11187781	240.82	27.562	0.1673	1974	Kowal	Himalia
+11	VI	Himalia	170	670	11451971	250.23	30.486	0.1513	1904	Perrine	Himalia
+12	X	Lysithea	36	6.3	11740560	259.89	27.006	0.1322	1938	Nicholson	Himalia
+13	VII	Elara	86	87	11778034	257.62	29.691	0.1948	1905	Perrine	Himalia
+14	LIII	Dia	4	0.009	12570424	287.93	27.584	0.2058	2001	Sheppard et al.	Himalia?
+15	XLVI	Carpo	3	0.0045	17144873	458.62	56.001	0.2735	2003	Sheppard et al.	Carpo
+16	—	S/2003 J 12	1	0.00015	17739539	−482.69	142.68	0.4449	2003	Sheppard et al.	?
+17	XXXIV	Euporie	2	0.0015	19088434	−538.78	144.694	0.096	2002	Sheppard et al.	Ananke
+18	—	S/2003 J 3	2	0.0015	19621780	−561.52	146.363	0.2507	2003	Sheppard et al.	Ananke
+19	—	S/2003 J 18	2	0.0015	19812577	−569.73	147.401	0.1569	2003	Gladman et al.	Ananke
+20	—	S/2011 J 1	1		20155290	−582.22	162.8	0.2963	2011	Sheppard et al.	?
+21	LII	S/2010 J 2	1		20307150	−588.36	150.4	0.307	2010	Veillet	Ananke?
+22	XLII	Thelxinoe	2	0.0015	20453753	−597.61	151.292	0.2684	2003	Sheppard et al.	Ananke
+23	XXXIII	Euanthe	3	0.0045	20464854	−598.09	143.409	0.2	2002	Sheppard et al.	Ananke
+24	XLV	Helike	4	0.009	20540266	−601.40	154.586	0.1374	2003	Sheppard et al.	Ananke
+25	XXXV	Orthosie	2	0.0015	20567971	−602.62	142.366	0.2433	2002	Sheppard et al.	Ananke
+26	XXIV	Iocaste	5	0.019	20722566	−609.43	147.248	0.2874	2001	Sheppard et al.	Ananke
+27	—	S/2003 J 16	2	0.0015	20743779	−610.36	150.769	0.3184	2003	Gladman et al.	Ananke
+28	XXVII	Praxidike	7	0.043	20823948	−613.90	144.205	0.184	2001	Sheppard et al.	Ananke
+29	XXII	Harpalyke	4	0.012	21063814	−624.54	147.223	0.244	2001	Sheppard et al.	Ananke
+30	XL	Mneme	2	0.0015	21129786	−627.48	149.732	0.3169	2003	Gladman et al.	Ananke
+31	XXX	Hermippe	4	0.009	21182086	−629.81	151.242	0.229	2002	Sheppard et al.	Ananke?
+32	XXIX	Thyone	4	0.009	21405570	−639.80	147.276	0.2525	2002	Sheppard et al.	Ananke
+33	XII	Ananke	28	3	21454952	−640.38	151.564	0.3445	1951	Nicholson	Ananke
+34	L	Herse	2	0.0015	22134306	−672.75	162.49	0.2379	2003	Gladman et al.	Carme
+35	XXXI	Aitne	3	0.0045	22285161	−679.64	165.562	0.3927	2002	Sheppard et al.	Carme
+36	XXXVII	Kale	2	0.0015	22409207	−685.32	165.378	0.2011	2002	Sheppard et al.	Carme
+37	XX	Taygete	5	0.016	22438648	−686.67	164.89	0.3678	2001	Sheppard et al.	Carme
+38	—	S/2003 J 19	2	0.0015	22709061	−699.12	164.727	0.1961	2003	Gladman et al.	Carme
+39	XXI	Chaldene	4	0.0075	22713444	−699.33	167.07	0.2916	2001	Sheppard et al.	Carme
+40	—	S/2003 J 15	2	0.0015	22720999	−699.68	141.812	0.0932	2003	Sheppard et al.	Ananke?
+41	—	S/2003 J 10	2	0.0015	22730813	−700.13	163.813	0.3438	2003	Sheppard et al.	Carme?
+42	—	S/2003 J 23	2	0.0015	22739654	−700.54	148.849	0.393	2004	Sheppard et al.	Pasiphae
+43	XXV	Erinome	3	0.0045	22986266	−711.96	163.737	0.2552	2001	Sheppard et al.	Carme
+44	XLI	Aoede	4	0.009	23044175	−714.66	160.482	0.6011	2003	Sheppard et al.	Pasiphae
+45	XLIV	Kallichore	2	0.0015	23111823	−717.81	164.605	0.2041	2003	Sheppard et al.	Carme?
+46	XXIII	Kalyke	5	0.019	23180773	−721.02	165.505	0.2139	2001	Sheppard et al.	Carme
+47	XI	Carme	46	13	23197992	−763.95	165.047	0.2342	1938	Nicholson	Carme
+48	XVII	Callirrhoe	9	0.087	23214986	−727.11	139.849	0.2582	2000	Spahr, Scotti	Pasiphae
+49	XXXII	Eurydome	3	0.0045	23230858	−723.36	149.324	0.3769	2002	Sheppard et al.	Pasiphae?
+50	—	S/2011 J 2	1		23329710	−725.06	151.8	0.3867	2011	Sheppard et al.	Pasiphae?
+51	XXXVIII	Pasithee	2	0.0015	23307318	−726.93	165.759	0.3288	2002	Sheppard et al.	Carme
+52	LI	S/2010 J 1	2		23314335	−722.83	163.2	0.32	2010	Jacobson et al.	Carme?
+53	XLIX	Kore	2	0.0015	23345093	−776.02	137.371	0.1951	2003	Sheppard et al.	Pasiphae
+54	XLVIII	Cyllene	2	0.0015	23396269	−731.10	140.148	0.4115	2003	Sheppard et al.	Pasiphae
+55	XLVII	Eukelade	4	0.009	23483694	−735.20	163.996	0.2828	2003	Sheppard et al.	Carme
+56	—	S/2003 J 4	2	0.0015	23570790	−739.29	147.175	0.3003	2003	Sheppard et al.	Pasiphae
+57	VIII	Pasiphae	60	30	23609042	−739.80	141.803	0.3743	1908	Melotte	Pasiphae
+58	XXXIX	Hegemone	3	0.0045	23702511	−745.50	152.506	0.4077	2003	Sheppard et al.	Pasiphae
+59	XLIII	Arche	3	0.0045	23717051	−746.19	164.587	0.1492	2002	Sheppard et al.	Carme
+60	XXVI	Isonoe	4	0.0075	23800647	−750.13	165.127	0.1775	2001	Sheppard et al.	Carme
+61	—	S/2003 J 9	1	0.00015	23857808	−752.84	164.98	0.2761	2003	Sheppard et al.	Carme
+62	—	S/2003 J 5	4	0.009	23973926	−758.34	165.549	0.307	2003	Sheppard et al.	Carme
+63	IX	Sinope	38	7.5	24057865	−739.33	153.778	0.275	1914	Nicholson	Pasiphae
+64	XXXVI	Sponde	2	0.0015	24252627	−771.60	154.372	0.4431	2002	Sheppard et al.	Pasiphae
+65	XXVIII	Autonoe	4	0.009	24264445	−772.17	151.058	0.369	2002	Sheppard et al.	Pasiphae
+66	XIX	Megaclite	5	0.021	24687239	−792.44	150.398	0.3077	2001	Sheppard et al.	Pasiphae
+67	—	S/2003 J 2	2	0.0015	30290846	−1077.02	153.521	0.1882	2003	Sheppard et al.	?
+
+
+Saturn
+Order	Label	Name	Diameter (km)[e]	Mass	Semi-major axis (km) [g]	Orbital period (d)[g][h]	Inclination [g][i]	Eccentricity	Position	Discovery	Discoverer
+1		S/2009 S 1	≈ 0.3	< 0.0001	≈ 117000	≈ 0.47	≈ 0°	≈ 0	outer B Ring	2009	Cassini[4]
+2	XVIII	Pan	28.2±2.6	4.95±0.75	133584	0.57505	0.001°	0.000035	in Encke Division	1990	M. Showalter
+3	XXXV	Daphnis	7.6±1.6	0.084±0.012	136505	0.59408	≈ 0°	≈ 0	in Keeler Gap	2005	Cassini
+4	XV	Atlas	30.2±1.8	6.6±0.045	137670	0.60169	0.003°	0.0012	outer A Ring shepherd	1980	Voyager 2
+5	XVI	Prometheus	86.2±5.4	159.5±1.5	139380	0.61299	0.008°	0.0022	inner F Ring shepherd	1980	Voyager 2
+6	XVII	Pandora	81.4±3.0	137.1±1.9	141720	0.6285	0.050°	0.0042	outer F Ring Shepherd	1980	Voyager 2
+7a	XI	Epimetheus	116.2±3.6	526.6±0.6	151422	0.69433	0.335°	0.0098	co-orbital with Janus	1977	J. Fountain, and S. Larson
+7b	X	Janus	179.0±2.8	1897.5±0.6	151472	0.69466	0.165°	0.0068	co-orbital with Epimetheus	1966	A. Dollfus
+9	LIII	Aegaeon	≈ 0.5	≈ 0.0001	167500	0.80812	0.001°	0.0002	G Ring moonlet	2008	Cassini
+10	I	Mimas	396.4±0.8	37493±31	185404	0.942422	1.566°	0.0202		1789	W. Herschel
+11	XXXII	Methone	3.2±1.2	≈ 0.02	194440	1.00957	0.007°	0.0001	Alkyonides	2004	Cassini
+12	XLIX	Anthe	≈ 1	≈ 0.007	197700	1.0365	0.1°	0.001	Alkyonides	2007	Cassini
+13	XXXIII	Pallene	5.0±1.2	≈ 0.05	212280	1.15375	0.181°	0.004	Alkyonides	2004	Cassini
+14	II	Enceladus	504.2±0.4	108022±101	237950	1.370218	0.010°	0.0047	Generates the E ring	1789	W. Herschel
+15	III	Tethys	1062±1.2	617449±132	294619	1.887802	0.168°	0.0001		1684	G. Cassini
+15a	XIII	Telesto	24.8±0.8	≈ 9.41	294619	1.887802	1.158°	0	leading Tethys trojan	1980	B. Smith, H. Reitsema, S. Larson, and J. Fountain
+15b	XIV	Calypso	21.4±1.4	≈ 6.3	294619	1.887802	1.473°	0	trailing Tethys trojan	1980	D. Pascu, P. Seidelmann, W. Baum, and D. Currie
+18	IV	Dione	1122.8±0.8	1095452±168	377396	2.736915	0.002°	0.0022		1684	G. Cassini
+18a	XII	Helene	35.2±0.8	≈ 24.46	377396	2.736915	0.212°	0.0022	leading Dione trojan	1980	P. Laques and J. Lecacheux
+18b	XXXIV	Polydeuces	2.6±0.8	≈ 0.03	377396	2.736915	0.177°	0.0192	trailing Dione trojan	2004	Cassini						
+21	V	Rhea	1527.0±1.2	2306518±353	527108	4.518212	0.327°	0.001258		1672	G. Cassini
+22	VI	Titan	5149	134520000±20000	1221930	15.94542	0.3485°	0.0288		1655	C. Huygens
+23	VII	Hyperion	270±8	5620±50	1481010	21.27661	0.568°	0.123006	in 4:3 resonance with Titan	1848	W. Bond					
+24	VIII	Iapetus	1468.6±5.6	1805635±375	3560820	79.3215	15.47°	0.028613		1671	G. Cassini
+25	XXIV	Kiviuq	≈ 16	≈ 2.79	11294800	448.16	49.087°	0.3288	Inuit group	2000	B. Gladman, J. Kavelaars, et al.
+26	XXII	Ijiraq	≈ 12	≈ 1.18	11355316	451.77	50.212°	0.3161	Inuit group	2000	B. Gladman, J. Kavelaars, et al.
+27	IX	Phoebe	213.0±1.4	8292±10	12869700	−545.09	173.047°	0.156242	Norse group	1899	W. Pickering		
+28	XX	Paaliaq	≈ 22	≈ 7.25	15103400	692.98	46.151°	0.3631	Inuit group	2000	B. Gladman, J. Kavelaars, et al.
+29	XXVII	Skathi	≈ 8	≈ 0.35	15672500	−732.52	149.084°	0.246	Norse (Skathi) Group	2000	B. Gladman, J. Kavelaars, et al.
+30	XXVI	Albiorix	≈ 32	≈ 22.3	16266700	774.58	38.042°	0.477	Gallic group	2000	M. Holman
+31		S/2007 S 2	≈ 6	≈ 0.15	16560000	−792.96	176.68°	0.2418	Norse group	2007	S. Sheppard, D. Jewitt, J. Kleyna, B. Marsden
+32	XXXVII	Bebhionn	≈ 6	≈ 0.15	17153520	838.77	40.484°	0.333	Gallic group	2004	S. Sheppard, D. Jewitt, J. Kleyna
+33	XXVIII	Erriapus	≈ 10	≈ 0.68	17236900	844.89	38.109°	0.4724	Gallic group	2000	B. Gladman, J. Kavelaars, et al.
+34	XLVII	Skoll	≈ 6	≈ 0.15	17473800	−862.37	155.624°	0.418	Norse (Skathi) group	2006	S. Sheppard, D. Jewitt, J. Kleyna
+35	XXIX	Siarnaq	≈ 40	≈ 43.5	17776600	884.88	45.798°	0.24961	Inuit group	2000	B. Gladman, J. Kavelaars, et al.
+36	LII	Tarqeq	≈ 7	≈ 0.23	17910600	894.86	49.904°	0.1081	Inuit group	2007	S. Sheppard, D. Jewitt, J. Kleyna
+37		S/2004 S 13	≈ 6	≈ 0.15	18056300	−905.85	167.379°	0.261	Norse group	2004	S. Sheppard, D. Jewitt, J. Kleyna
+38	LI	Greip	≈ 6	≈ 0.15	18065700	−906.56	172.666°	0.3735	Norse group	2006	S. Sheppard, D. Jewitt, J. Kleyna
+39	XLIV	Hyrrokkin	≈ 8	≈ 0.35	18168300	−914.29	153.272°	0.3604	Norse (Skathi) group	2006	S. Sheppard, D. Jewitt, J. Kleyna
+40	L	Jarnsaxa	≈ 6	≈ 0.15	18556900	−943.78	162.861°	0.1918	Norse group	2006	S. Sheppard, D. Jewitt, J. Kleyna
+41	XXI	Tarvos	≈ 15	≈ 2.3	18562800	944.23	34.679°	0.5305	Gallic group	2000	B. Gladman, J. Kavelaars, et al.
+42	XXV	Mundilfari	≈ 7	≈ 0.23	18725800	−956.70	169.378°	0.198	Norse group	2000	B. Gladman, J. Kavelaars, et al.
+43		S/2006 S 1	≈ 6	≈ 0.15	18930200	−972.41	154.232°	0.1303	Norse (Skathi) group	2006	S. Sheppard, D.C. Jewitt, J. Kleyna
+44		S/2004 S 17	≈ 4	≈ 0.05	19099200	−985.45	166.881°	0.226	Norse group	2004	S. Sheppard, D. Jewitt, J. Kleyna
+45	XXXVIII	Bergelmir	≈ 6	≈ 0.15	19104000	−985.83	157.384°	0.152	Norse (Skathi) group	2004	S. Sheppard, D. Jewitt, J. Kleyna
+46	XXXI	Narvi	≈ 7	≈ 0.23	19395200	−1008.45	137.292°	0.32	Norse (Narvi) group	2003	S. Sheppard, D. Jewitt, J. Kleyna
+47	XXIII	Suttungr	≈ 7	≈ 0.23	19579000	−1022.82	174.321°	0.131	Norse group	2000	B. Gladman, J. Kavelaars, et al.
+48	XLIII	Hati	≈ 6	≈ 0.15	19709300	−1033.05	163.131°	0.291	Norse group	2004	S. Sheppard, D. Jewitt, J. Kleyna
+49		S/2004 S 12	≈ 5	≈ 0.09	19905900	−1048.54	164.042°	0.396	Norse group	2004	S. Sheppard, D. Jewitt, J. Kleyna
+50	XL	Farbauti	≈ 5	≈ 0.09	19984800	−1054.78	158.361°	0.209	Norse (Skathi) group	2004	S. Sheppard, D. Jewitt, J. Kleyna
+51	XXX	Thrymr	≈ 7	≈ 0.23	20278100	−1078.09	174.524°	0.453	Norse group	2000	B. Gladman, J. Kavelaars, et al.
+52	XXXVI	Aegir	≈ 6	≈ 0.15	20482900	−1094.46	167.425°	0.237	Norse group	2004	S. Sheppard, D. Jewitt, J. Kleyna
+53		S/2007 S 3	≈ 5	≈ 0.09	20518500	≈ −1100	177.22°	0.13	Norse group	2007	S. Sheppard, D. Jewitt, J. Kleyna
+54	XXXIX	Bestla	≈ 7	≈ 0.23	20570000	−1101.45	147.395°	0.5145	Norse (Narvi) group	2004	S. Sheppard, D. Jewitt, J. Kleyna
+55		S/2004 S 7	≈ 6	≈ 0.15	20576700	−1101.99	165.596°	0.5299	Norse group	2004	S. Sheppard, D. Jewitt, J. Kleyna
+56		S/2006 S 3	≈ 6	≈ 0.15	21076300	−1142.37	150.817°	0.471	Norse (Skathi) group	2006	S. Sheppard, D. Jewitt, J. Kleyna
+57	XLI	Fenrir	≈ 4	≈ 0.05	21930644	−1212.53	162.832°	0.131	Norse group	2004	S. Sheppard, D. Jewitt, J. Kleyna
+58	XLVIII	Surtur	≈ 6	≈ 0.15	22288916	−1242.36	166.918°	0.368	Norse group	2006	S. Sheppard, D. Jewitt, J. Kleyna
+59	XLV	Kari	≈ 7	≈ 0.23	22321200	−1245.06	148.384°	0.3405	Norse (Skathi) group	2006	S. Sheppard, D. Jewitt, J. Kleyna
+60	XIX	Ymir	≈ 18	≈ 3.97	22429673	−1254.15	172.143°	0.3349	Norse group	2000	B. Gladman, J. Kavelaars, et al.
+61	XLVI	Loge	≈ 6	≈ 0.15	22984322	−1300.95	166.539°	0.139	Norse group	2006	S. Sheppard, D. Jewitt, J. Kleyna
+62	XLII	Fornjot	≈ 6	≈ 0.15	24504879	−1432.16	167.886°	0.186	Norse group	2004	S. Sheppard, D. Jewitt, J. Kleyna
+
+Neptune
+Order	Label	Name	Diameter	Mass	Semi-major axis	Orbital period	Orbital inclination	Eccentricity	Discovery	Discoverer
+1	Neptune III	Naiad	66	≈ 19	48227	0.294	4.691	0.0003	1989	Voyager Science Team
+2	Neptune IV	Thalassa	82	≈ 35	50074	0.311	0.135	0.0002	1989	Voyager Science Team
+3	Neptune V	Despina	150	≈ 210	52526	0.335	0.068	0.0002	1989	Voyager Science Team
+4	Neptune VI	Galatea	176	≈ 375	61953	0.429	0.034	0.0001	1989	Voyager Science Team
+5	Neptune VII	Larissa	194	≈ 495	73548	0.555	0.205	0.0014	1981	Reitsema et al.
+6	—	S/2004 N 1	≈ 16–20[8]	≈ 0.5 ± 0.4	105300 ± 50	0.936[8]	0	0	2013	Showalter et al.[33]
+7	Neptune VIII	Proteus	420	≈ 5035	117646	1.122	0.075	0.0005	1989	Voyager Science Team
+8	Neptune I	Triton	2705.2±4.8	2140800±5200	354759	−5.877	156.865	0	1846	Lassell
+9	Neptune II	Nereid	≈ 340 ± 50	≈ 2700	5513818	360.13	7.09	0.7507	1949	Kuiper
+10	Neptune IX	Halimede	≈ 62	≈ 16	16611000	−1879.08	112.898	0.2646	2002	Holman et al.
+11	Neptune XI	Sao	≈ 44	≈ 6	22228000	2912.72	49.907	0.1365	2002	Holman et al.
+12	Neptune XII	Laomedeia	≈ 42	≈ 5	23567000	3171.33	34.049	0.3969	2002	Holman et al.
+13	Neptune X	Psamathe	≈ 40	≈ 4	48096000	−9074.30	137.679	0.3809	2003	Sheppard et al.
+14	Neptune XIII	Neso	≈ 60	≈ 15	49285000	−9740.73	131.265	0.5714	2002	Holman et al.
+
