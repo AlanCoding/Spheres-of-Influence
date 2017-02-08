@@ -3,3 +3,7 @@
 soi/.cache/
 
 lastfailed
+
+*.csv
+
+.DS_Store
